@@ -5,3 +5,8 @@
   margin: 0;
   background-color: aqua;
 }
+
+h1 {
+  font-size: 500px;
+  text-align: center;
+}
